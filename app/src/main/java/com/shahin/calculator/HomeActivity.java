@@ -162,6 +162,6 @@ public class HomeActivity extends AppCompatActivity {
     }
 
     private void showToast() {
-        Toast.makeText(this, "dev-aniketj (github)", Toast.LENGTH_SHORT).show();
+        Toast.makeText(this, "Developed by Shahin", Toast.LENGTH_SHORT).show();
     }
 }
